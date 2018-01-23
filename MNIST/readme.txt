@@ -1,0 +1,3 @@
+基于keras的简单手写识别
+input_data 将图片转化为keras input的np.ndarray模式
+easy_MNIST 利用keras构建简单卷积神经网络
