@@ -1,0 +1,4 @@
+keras文件夹下程序基于keras API
+tensorflow文件夹下程序基于tensorflow
+log文件夹下文件为记录文件 用来tensorboard可视化训练过程
+model文件夹下为储存的训练好的模型
